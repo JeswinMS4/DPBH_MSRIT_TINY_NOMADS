@@ -8,4 +8,7 @@ You can access the LLM Over here :https://darkpatternllm-3xhlzfjhjmhkclcbgfrtcr.
 For Info and Feedback app :https://sirirs-streamlit-example-app-swxrve.streamlit.app/
 
 Extension Snippet:
+
+
+
 ![Extension ScreenShot](https://github.com/JeswinMS4/DPBH_MSRIT_TINY_NOMADS/blob/main/screenshot1.png)
