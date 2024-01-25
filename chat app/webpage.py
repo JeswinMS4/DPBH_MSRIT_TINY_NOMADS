@@ -90,4 +90,5 @@ else:
     comments = st.text_area("Let us know if you come across any dark patterns ")
     submit = st.button("Submit")
     if submit:
+        users.insert_one({'feedback': comments})
         st.success("Thank you for your feedback!")
