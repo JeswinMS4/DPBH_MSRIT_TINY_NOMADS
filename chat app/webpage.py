@@ -3,7 +3,6 @@ from pymongo import MongoClient
 
 client = MongoClient('mongodb://localhost:8501/')
 
-# Access the 'users' collection in the 'streamlit' database
 db = client['streamlit']
 users = db['users']
 
@@ -90,5 +89,5 @@ else:
     comments = st.text_area("Let us know if you come across any dark patterns ")
     submit = st.button("Submit")
     if submit:
-        users.insert_one({'feedback': comments})
+        users.insert_one({'Website/App Name': ss, 'Email ID': em,'feedback': comments})
         st.success("Thank you for your feedback!")
