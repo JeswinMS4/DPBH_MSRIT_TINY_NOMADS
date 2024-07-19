@@ -7,6 +7,13 @@ You can access the LLM Over here :https://darkpatternllm-3xhlzfjhjmhkclcbgfrtcr.
 
 For Info and Feedback app :https://sirirs-streamlit-example-app-swxrve.streamlit.app/
 
+## TEAM Members:
+- Jeswin M S
+- N Sudharshan Reddy
+- Siri R S
+- Yugesh K
+- Shreyanka Shetty
+Qualified for Round - 2
 Extension Snippet:
 
 
